@@ -9,3 +9,6 @@ Scared of rejection? Nervous about asking face-to-face? Just send her the link. 
 
 Link: 
 https://will-you-be-my-valentines-nu.vercel.app/
+
+Caution: 
+1. CSS configured for desktop view, not mobile view
